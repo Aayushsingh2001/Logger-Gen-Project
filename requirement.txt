@@ -1,0 +1,4 @@
+pip install requests beautifulsoup4 pandas numpy matplotlib
+
+TIMESTAMP              LOG_LEVEL             ACTION             USER: USER_NAME/ID
+2024-12-31 24:12
